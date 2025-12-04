@@ -28,8 +28,3 @@ tb_i2c_env.v	     :  Complete testbench integrating all modules for simulation
 -Verilog HDL
 -Behavioral Simulation (xsim)
 -Basys 3 (hardware)
-
-
-On-chip CPU for advanced logic
-
-Low-power optimization for VLSI implementation
